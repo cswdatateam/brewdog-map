@@ -51,7 +51,7 @@
       "url": "https://snodnipper.github.io/os-zoomstack-masterclass/data/brewdog/config.json"
     }
   },
-  "sprite": "https://snodnipper.github.io/os-zoomstack-masterrclass/style/brewdog/sprites",
+  "sprite": "https://snodnipper.github.io/os-zoomstack-masterclass/style/brewdog/sprites",
   "glyphs": "https://s3-eu-west-1.amazonaws.com/tiles.os.uk/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
